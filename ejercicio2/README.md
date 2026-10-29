@@ -1,0 +1,1 @@
+Deberá obtener el factorial del siguiente número. Duración 10 minutos a = 19
